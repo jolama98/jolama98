@@ -40,9 +40,9 @@
     line-height: 1.8;
   ">
     <li>👋 Hi, I’m <strong>Joseph</strong>!</li>
-    <li>👀 Passionate about <strong>Software</strong> & <strong>Game Development</strong></li>
-    <li>🌱 Learning: <strong>OpenAI & AI Tools</strong></li>
-    <li>📫 <a href='mailto:Josephehall1998@gmail.com' style='color: #93c5fd; text-decoration: none;'>Josephehall1998@gmail.com</a></li>
+    <li> Passionate about <strong>Software</strong> & <strong>Game Development</strong></li>
+    <li> Learning: <strong>OpenAI & AI Tools</strong></li>
+    <li> <a href='mailto:Josephehall1998@gmail.com' style='color: #93c5fd; text-decoration: none;'>Josephehall1998@gmail.com</a></li>
   </ul>
 
   <!-- Skills -->
