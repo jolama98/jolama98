@@ -13,16 +13,7 @@
 ">
 
   <!-- Profile Image -->
- 
-    width: 120px;
-    height: 120px;
-    border-radius: 100%;
-    object-fit: cover;
-    border: 5px solid #10b981;
-    margin-bottom: 16px;
-    background-color: #1f2937;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  "/>
+
 
   <!-- Name -->
   <h1 style="
