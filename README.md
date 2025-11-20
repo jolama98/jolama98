@@ -13,7 +13,7 @@
 ">
 
   <!-- Profile Image -->
-  <img src="https://github.com/jolama98.png" alt="Joseph Hall GitHub Profile Image" style="
+ 
     width: 120px;
     height: 120px;
     border-radius: 100%;
