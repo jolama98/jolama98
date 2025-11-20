@@ -20,7 +20,7 @@
     margin: 0;
     font-size: 2rem;
     color: #06b6d4;
-  ">Joseph Hall</h1>
+  ">Jo</h1>
 
   <!-- Intro -->
   <ul style="
@@ -30,7 +30,7 @@
     font-size: 1rem;
     line-height: 1.8;
   ">
-    <li>👋 Hi, I’m <strong>Joseph</strong>!</li>
+    <li>👋 Hi, I’m <strong>Jo</strong>!</li>
     <li> Passionate about <strong>Software</strong> & <strong>Game Development</strong></li>
     <li> Learning: <strong>OpenAI & AI Tools</strong></li>
     <li> <a href='mailto:Josephehall1998@gmail.com' style='color: #93c5fd; text-decoration: none;'>Josephehall1998@gmail.com</a></li>
